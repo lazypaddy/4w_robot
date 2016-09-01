@@ -1,5 +1,9 @@
 #!/usr/bin/python
+'''
+References
+http://www.robotc.net/wikiarchive/Tutorials/Arduino_Projects/Additional_Info/Turning_Calculations
 
+'''
 from Adafruit_MotorHAT import Adafruit_MotorHAT, Adafruit_DCMotor
 import atexit
 import pygame, time
